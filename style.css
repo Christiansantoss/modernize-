@@ -1,0 +1,198 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+
+
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    background-color:rgb(35, 32, 36); 
+    width:970px;
+    height: 900px;
+    padding: 2px;
+}
+
+#header{
+    background-color:rgb(36, 32, 32);
+    width:970px;
+    height: 144px;
+
+}
+
+#sideheader {
+    width: 155px;
+    height: 20px;
+    display: inline-block;
+    color: white;
+    margin-left: 482px;
+    vertical-align: top;
+    margin-top: 50px;
+    text-align: end;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.logo img {
+    width: 271px;
+    height:104px;
+    display: inline-block;
+    margin-top:10px;
+
+}
+
+#lowerheader{
+    width: 969px;
+    height: 50px;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+.tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    padding: 14px 16px;
+    font-size: 14px;
+
+}
+
+
+.girl img{
+    width: 969px;
+    height: 270px;
+}
+
+.girl {
+    display: inline-block;
+    margin-top: -3px;
+}
+
+#midsection {
+    width: 939px;
+    height: 98px;
+    margin-left: 0px;
+}
+
+.subcontent {
+    display: inline-block;
+    width: 162px;
+    vertical-align: top;
+    height: 88px;
+    background-color: rgb(36, 32, 32);
+    margin-left: 94px;
+    margin-right: -45px;
+}
+
+.subcontent img {
+    width: 20px;
+    height: 22px;
+    display: inline-block;
+    margin-left: 6px;
+    vertical-align: top;
+    margin-top: 2px;
+}
+.subcontent div {
+    display: inline-block;
+    color: white;
+    margin-top: 2px;
+    vertical-align: top;
+}
+
+.titles {
+    height: 10px;
+    font-size: 20px;
+}
+
+p{
+    text-align: justify;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+#middle {
+    width: 968px;
+    height: 85px;
+    background-color: black;
+}
+
+.buynow {
+    width: 300px;
+    display: inline-block;
+    color: white;
+    font-size: 23px;
+    margin-left: 20px;
+}
+
+buynow p{
+    color: white;
+    display: inline-block;
+}
+
+.button {
+    color: white;
+    background-color: rgb(51, 51, 163);
+    font-size: 16px;
+    border-radius: 3px;
+    margin-left: 779px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -22px;
+}
+
+#footer {
+    width:961px;
+    height:245px;
+}
+
+.lastcontent0 {
+    display: inline-block;
+    width: 189px;
+    background-color: rgb(36, 32, 32);
+    vertical-align: top;
+    margin: 10px;
+    height: 203px;
+    margin-left: 23px;
+    margin-top: 2px;
+}
+
+.subcontents img{
+    width: 265px;
+    height: 165px;
+
+}
+
+
+.lastcontent0 img {
+width:153px;
+height: 136;
+vertical-align: middle;
+margin-left: 3px;
+}
+
+lastcontent0 p {
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 12px;
+    color: rgb(165, 127, 47);
+}
+
+.portfolio {
+    width: 100px;
+    margin-left: 23px;
+    color: rgb(165, 127, 47);
+}
